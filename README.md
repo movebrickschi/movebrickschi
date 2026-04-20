@@ -251,7 +251,6 @@ Automated MySQL → PostgreSQL migration tool — converts types, indexes and co
 
 </div>
 
-> 💬 **WeChat 微信**：请将上方徽章中的 `YOUR_WECHAT_ID` 替换为您真实的微信号。<br/>
 > 📧 项目咨询、外包合作、技术交流，欢迎邮件或微信联系。<br/>
 > 📧 For project inquiries, freelance collaboration or technical discussions, feel free to reach out via email or WeChat.
 
