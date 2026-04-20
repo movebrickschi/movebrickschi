@@ -247,7 +247,7 @@ Automated MySQL → PostgreSQL migration tool — converts types, indexes and co
 <a href="https://github.com/movebrickschi">
   <img src="https://img.shields.io/badge/GitHub-movebrickschi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/WeChat-ForBeautiful--07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
+<img src="https://img.shields.io/static/v1?label=WeChat&message=ForBeautiful-&color=07C160&style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat: ForBeautiful-"/>
 
 </div>
 
